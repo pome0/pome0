@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Allow: /keyboards/
+Allow:/site-explorer/*
+Allow:/link-intersect/*
+
+Sitemap: https://www.gnihtyreve.tk/
