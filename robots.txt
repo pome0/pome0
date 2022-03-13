@@ -1,5 +1,5 @@
 User-agent: *
-Allow: 
+Allow: /
 Allow: /keyboards/
 Allow:/site-explorer/*
 Allow:/link-intersect/*
