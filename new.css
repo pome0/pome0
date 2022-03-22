@@ -13,7 +13,8 @@
   }
   body{
     font-family: montserrat;
-    background-color: black;
+    background-color: white;
+    color:whitesmoke
   }
   nav{
     background: green;
@@ -61,7 +62,7 @@
   }
 
   a:link{
-    color:rgb(0, 0, 0);
+    color:white;
     text-decoration:none;
   }
   a:hover{
@@ -76,7 +77,7 @@
     display: none;
       position: absolute;
       right: 0;
-      background: rgb(0, 0, 255);
+      background: green;
       font-size: large;
       box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
       z-index: 1;
@@ -99,6 +100,8 @@
   }
   p{
     display: inline-block;
+    width:90%;
+    height:76px;
   }
   r{
     display:none;
@@ -167,4 +170,7 @@
       text-align: center;
     }
     w{display:none;}
+  }
+  c{
+    display:none;
   }
